@@ -6,7 +6,8 @@ body{
     background-image: url(image/wallpaperflare.com_wallpaper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: center;
+    background-position: center;
+    height: 100%
   }
   .box{
     width: 450px;
